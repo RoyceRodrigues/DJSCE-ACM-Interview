@@ -1,0 +1,77 @@
+Ideas:
+
+1. AR Treasure Hunt: Digital Reality Challenge
+
+Concept:
+A campus-wide treasure hunt where clues appear through augmented reality.
+
+Participants:
+Scan locations
+Solve programming puzzles
+Unlock hidden digital objects
+
+Example:
+A QR code near the library opens an AR model containing the next clue.
+
+Resources Required:
+AR frameworks (AR.js, Unity AR Foundation)
+QR codes
+Smartphones
+Campus map
+
+Technologies Showcased:
+Augmented Reality, Mobile Development
+
+-----------------------------------------------------------------------------
+
+2. Build Your Own Robot Battle:
+
+Concept:
+Teams build small robots and compete.
+
+Challenges:
+Maze solving
+Line following
+Object collection
+Battle arena
+Resources Required
+Arduino
+Motors
+Sensors
+Robot chassis
+Batteries
+
+Technologies Showcased:
+Embedded Systems, IoT, Robotics
+
+---------------------------------------------------------------------------
+
+3. Digital Forensics Investigation Lab:
+
+Concept:
+Participants become cyber investigators solving a fictional crime.
+
+Scenario:
+"A company's confidential data was leaked. Find the attacker."
+
+Tasks:
+Analyze logs
+Recover deleted files
+Inspect metadata
+Identify attack methods
+Resources Required
+Sample disk images
+Log files
+Forensics tools
+Computers
+
+Tools:
+Autopsy
+Wireshark
+FTK Imager
+
+Technologies Showcased:
+Cybersecurity, Digital Forensics
+
+---------------------------------------------------------------------------------
+
